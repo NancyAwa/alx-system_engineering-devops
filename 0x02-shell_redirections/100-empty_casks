@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 find . -empty -printf %f'\n'
-=======
-find . -0x02-shell_redirections d -empty
->>>>>>> 4ea4832a0a5282a0091901f0fd439b04525a73dc
