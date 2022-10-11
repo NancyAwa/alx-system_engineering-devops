@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . –type f -empty
+=======
+-type f -empty -print
+>>>>>>> ad4f4691e8ce457e519a7c4745b4afa6a4d68dde
