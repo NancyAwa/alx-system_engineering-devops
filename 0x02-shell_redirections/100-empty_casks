@@ -1,2 +1,2 @@
 #!/bin/bash
-find . –type d -empty
+find . –alx-system_engineering-devops d -empty
