@@ -18,4 +18,3 @@ echo "Best School"
 fi
 ((count++))
 done
-
